@@ -8,10 +8,21 @@
 
 <h2 align="center">⚡Stats⚡</h2>
 
-<p align="center">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=hasan-hasanov&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644" />
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-hasanov&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644" />
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=hasan-hasanov&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&dates=785EF0" />
+<p align=center>
+  <div align=center>
+    <a href="https://github-readme-stats.vercel.app/api?username=hasan-hasanov&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644" title="Go to Source">
+      <img width="45%" align="left" height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=hasan-hasanov&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644" />
+    </a>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+       <img width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com/?user=hasan-hasanov&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&dates=785EF0" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" width="35%" height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-hasanov&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644" />
+    </a>
+  </div>
 </p>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
