@@ -1,8 +1,9 @@
-<h3 align="center">
+<h2 align="center">
 	Hello, I'm
 	<b><a target="_blank" href="https://www.linkedin.com/in/hasan-hasanov-09b74166/">Hasan Hasanov</a></b>
-</h3>
+</h2>
 
+<p align="center">Full time .NET developer, part time teacher, wannabe tech blogger.</p>
 
 <br />
 <h2 align="center">Stats:</h2>
