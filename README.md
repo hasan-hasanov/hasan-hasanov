@@ -18,19 +18,19 @@
 <br />
 <p align="center">
     <a href="https://github.com/hasan-hasanov/ScoopBox">
-        <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=ScoopBox&theme=vision-friendly-dark&hide_border=false&bg_color=00000000" />
+        <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=ScoopBox&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" />
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/hasan-hasanov/Boxer">
-        <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=Boxer&theme=vision-friendly-dark&hide_border=false&bg_color=00000000" />
+        <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=Boxer&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" />
     </a>
 </p>
 <p align="center">
     <a href="https://github.com/hasan-hasanov/AirpodsBatteryIndicator">
-        <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=AirpodsBatteryIndicator&theme=vision-friendly-dark&hide_border=false&bg_color=00000000" />
+        <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=AirpodsBatteryIndicator&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" />
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/hasan-hasanov/blog-examples">
-        <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=blog-examples&theme=vision-friendly-dark&hide_border=false&bg_color=00000000" />
+        <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=blog-examples&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" />
     </a>
 </p>
