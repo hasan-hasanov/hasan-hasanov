@@ -9,9 +9,9 @@
 <h2 align="center">⚡Stats⚡</h2>
 
 <p align="center">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=hasan-hasanov&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&hide=issues,contribs&bg_color=00000000" />
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-hasanov&layout=compact&hide_border=true&theme=vision-friendly-dark&bg_color=00000000&langs_count=6" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=hasan-hasanov&theme=vision-friendly-dark&hide_border=true&background=FFFFFF00" />
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=hasan-hasanov&show_icons=true&count_private=true&hide=issues,contribs&hide_border=true&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644" />
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-hasanov&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644" />
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=hasan-hasanov&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&dates=785EF0" />
 </p>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
