@@ -56,7 +56,7 @@
 
 
 <!--- Repositories -->
-<h2 align="center"> Repositories </h2>
+<h2 align="center"> Repositories: </h2>
 <br />
 <p align="center">
 	<a href="https://github.com/hasan-hasanov/ScoopBox"> <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasan-hasanov&repo=ScoopBox&bg_color=00000000&title_color=ffb000&text_color=785ef0&icon_color=6cc644&border_color=ffb000" /> </a> <span>&nbsp;</span>
