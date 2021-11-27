@@ -7,8 +7,18 @@
 
 <!--- Description -->
 <p align="center">Full time .NET developer, part time teacher, wannabe tech blogger.</p>
-<br />
 
+<p align="center">
+  🏃 Always trying to catch up with .NET
+  <br>
+  🎓 Bachelor in Computer Science
+  <br>
+  🎓 Masters in integrated Computer Systems
+  <br>
+  💻 I love blogging about new technologies
+  <br>
+  💬 You can ask me anything <a href="https://github.com/hasan-hasanov/hasan-hasanov/issues" title="Issues">here</a>
+</p>
 
 <!--- Social Icons -->
 <p align="center">
