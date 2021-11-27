@@ -1,11 +1,16 @@
+<!--- Main title -->
 <h2 align="center">
 	Hello, I'm
 	<b><a target="_blank" href="https://www.linkedin.com/in/hasan-hasanov-09b74166/">Hasan Hasanov</a></b>
 </h2>
 
+
+<!--- Description -->
 <p align="center">Full time .NET developer, part time teacher, wannabe tech blogger.</p>
 <br />
 
+
+<!--- Social Icons -->
 <p align="center">
   <a href="https://stackoverflow.com/users/3833086/hasan-hasanov"><img width="50px" alt="StackOverflow" title="StackOverflow" src="/images/stackoverflow.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -19,6 +24,7 @@
 </p>
 
 
+<!--- Github Stats -->
 <h2 align="center">Stats:</h2>
 <p align=center>
 	<div align=center>
@@ -39,6 +45,7 @@
 </p>
 
 
+<!--- Repositories -->
 <h2 align="center"> Repositories </h2>
 <br />
 <p align="center">
