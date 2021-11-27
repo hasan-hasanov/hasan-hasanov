@@ -4,8 +4,21 @@
 </h2>
 
 <p align="center">Full time .NET developer, part time teacher, wannabe tech blogger.</p>
-
 <br />
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/3833086/hasan-hasanov"><img width="50px" alt="StackOverflow" title="StackOverflow" src="/images/stackoverflow.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://hasan-hasanov.com"><img width="50px" alt="Hasan Hasanov's Blog" title="Hasan Hasanov's Blog" src="/images/web.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/hasan-hasanov-09b74166" alt="LinkedIn" title="LinkedIn"><img width="50px" src="/images/linkedin.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/hmhasanov"><img width="50px" alt="Twitter" title="Twitter" src="/images/twitter.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:hasan.mehmedov@gmail.com"><img width="50px" alt="hasan.mehmedov@gmail.com" title="hasan.mehmedov@gmail.com" src="/images/email.svg"/></a>
+</p>
+
+
 <h2 align="center">Stats:</h2>
 <p align=center>
 	<div align=center>
