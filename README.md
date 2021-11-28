@@ -11,9 +11,9 @@
 <p align="center">
   🏃 Always trying to catch up with .NET
   <br>
-  🎓 Bachelor in Computer Science
+  🎓 Bachelor's in Computer Science
   <br>
-  🎓 Masters in integrated Computer Systems
+  🎓 Master's in Integrated Computer Systems
   <br>
   💻 I love blogging about new technologies
   <br>
