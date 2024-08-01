@@ -15,7 +15,7 @@
   <br>
   🎓 Master's in Integrated Computer Systems
   <br>
-  💻 I love blogging about new technologies: <a href="https://hasan-hasanov.com/" title="Issues">https://hasan-hasanov.com</a>
+  💻 Occasional blogger at: <a href="https://hasan-hasanov.com/" title="Issues">https://hasan-hasanov.com</a>
   <br>
   💬 You can ask me anything <a href="https://github.com/hasan-hasanov/hasan-hasanov/issues" title="Issues">here</a>
 </p>
